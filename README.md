@@ -1,12 +1,12 @@
-![](https://github.com/marcosatsf/PacmanGameOCLM/blob/master/imgRepo/bannerPacman.png)
+![](https://github.com/Gutomz/PacmanGameOCLM/blob/master/imgRepo/bannerPacman.png)
+![](https://github.com/Gutomz/PacmanGameOCLM/blob/master/imgRepo/ingame.png)
 > Written in Assembly x8086
 
-
-![](https://github.com/marcosatsf/PacmanGameOCLM/blob/master/imgRepo/maps.gif)
+![](https://github.com/Gutomz/PacmanGameOCLM/blob/master/imgRepo/maps.gif)
 > 3 different maps to play!
 
 
-![](https://github.com/marcosatsf/PacmanGameOCLM/blob/master/imgRepo/ranking.png)
+![](https://github.com/Gutomz/PacmanGameOCLM/blob/master/imgRepo/ranking.png)
 > Includes a ranking system for each map!
 
 ## Requirements:
